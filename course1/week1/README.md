@@ -50,3 +50,69 @@ Un portfolio manager est soit :
  * **Word equity index** : indice boursier qui traque la santé des grandes places boursières des pays développés
  * **Benchmarking** : checkez les indices boursiers qui servent de référence dans telle situation. Par exemple, dans le stock market, le S&P 500 est un bon benchmark, si on bat le S&P 500, alors c'est une bonne performance
 
+
+# Difference Primary vs Secondary Market
+
+https://www.investopedia.com/investing/primary-and-secondary-markets/#:~:text=The%20primary%20market%20is%20where,initial%20public%20offering%20(IPO).
+
+En bref:
+ * primary market : le marché où se créer les nouveaux assets
+ * secondary market : le marché ou les assets sont échangés (le stock market en gros)
+
+
+# How to measure the financeliazation of a country
+
+ * Look at the Global Equity Value TO GDP Ratio : il peut varier entre 30 et 120% selon le degré de financiarisation du pays. C'est censé dire si un marché est sous évalué ou sur évalué
+ * Global Equity Value : la somme de toutes les part des entreprises d'un pays
+ * GDP : produit intérieur brut, la somme des richesses produites par un pays
+
+
+
+# Le rôle d'un marché financier
+
+Créer un espace pour que l'argent circule entre investisseurs et entrepreneurs
+
+ * Pooling ressources and subdividing shares : en gros c'est la création d'une multitude de petites parts de l'entreprise ce qui est intéressant pour deux raisons :
+   1. Attirer un grand nombre de petits porteurs avec des moyens limités
+   2. Attirer des gens qui veulent pouvoir diversifier leur portefeuilles
+
+  * Transfering ressources through time and space : en gros un investisseur de chine peut investir dans une entreprise du Paraguay et il peut retirer son investissement quand bon lui semble
+
+  * Managing Risks : cela permet à d'éventuels investisseurs d'être rassurer par la possibilité que le marché leur donne de diversifier leur portefeuille et ainsi de limiter les risques
+
+  * Providing information : les entreprises côtées en bourse sont soumises à des niveaux de transparence, de plus, la somme des stocks d'une entreprise est censée représenter la valeur de celle-ci
+
+
+# Definition d'un marché "efficace"
+
+ * provider de l'information à tt le monde
+ * une bonne vitesse des transactions
+ * conflit d'intérêt empêché
+ * no fixing from authorities
+
+
+# Market efficient 
+
+ * le prix d'une action reflète la santé de l'entreprise à la valeur exacte. Ce qui n'est pas le cas lors d'une bulle
+
+
+
+
+# Return
+
+ * Return (t+1) = [(Price t+1) - (Price t)] / Price t
+
+# Return Risk Ratio need to be higher
+
+ * Risk R
+ * Return U
+ * Return Risk Ratio = Return / Risk
+ * Pour un risk return ratio equivalent, chaque investisseur peut vouloir préferer un rendement plus élevé ou bien 
+
+# Métriques pour caractériser un stock
+
+ 1. Average Return
+ 2. Volatility (Risk)
+ 3. Return Distribution, we want to avoid lefty fat tail (des événements négatifs très dommageables)
+
+ 
